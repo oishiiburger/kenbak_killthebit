@@ -2,7 +2,7 @@
 
 ![Kill the Bit on Kenbak-1](Kenbak_KillTheBit.gif)
 
-[Kill the Bit](https://altairclone.com/downloads/killbits.pdf) was a game made famous on the MITS Altair 8800 after it came out in the mid-1970s. The object of the game was to use the console entry switches to "kill" a bit, which would flash across the front panel lamps. Flipping a switch directly under the active lamp at the right time would eliminate the bit, but being too early or too late would cause other bits to join, until the game was impossible to win.
+[Kill the Bit](https://altairclone.com/downloads/killbits.pdf) was a game made famous on the [MITS Altair 8800](https://en.wikipedia.org/wiki/Altair_8800) after it came out in the mid-1970s. The object of the game was to use the console entry switches to "kill" a bit, which would flash across the front panel lamps. Flipping a switch directly under the active lamp at the right time would eliminate the bit, but being too early or too late would cause other bits to join, until the game was impossible to win.
 
 The [Kenbak-1](https://en.wikipedia.org/wiki/Kenbak-1) was an earlier machine first sold in 1971. It was based entirely on shift registers and logic gates since it slightly predated available microprocessors and RAM. Original machines are rare, but emulators and Arduino-based kits are now available.
 
